@@ -3,7 +3,7 @@
 
 Project Description
 ------------------
-In this project, I create visualizations to reveal insights from  Flight Delays and Cancellations dataswt. also I created data visualizations that highlight patterns in the data set. the work is a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+In this project, I create visualizations to reveal insights from  Flight Delays and Cancellations dataset. also I created data visualizations that highlight patterns in the data set. the work is a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
 
  Flight Delays and Cancellations dataset
